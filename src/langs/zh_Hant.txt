@@ -49,6 +49,7 @@ Remove Task=刪除工作
 Remove Selected Task=刪除選中的工作
 Clear Stopped Tasks=清除已結束工作
 Click to view task detail=點選檢視工作詳情
+Open download folder=打開所在文件夾
 By File Name=依檔名
 By File Size=依檔案大小
 By Progress=依進度

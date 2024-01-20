@@ -72,7 +72,7 @@
                         <a ng-if="isTaskRetryable(task)" ng-click="retryTask(task)" title="{{'Retry' | translate}}"
                             translate>Retry</a>
                         <a ng-if="task.status == 'complete' || task.completedLength > 0" target="_blank"
-                            class="fa fa-lg fa-folder mx-2 ng-scope" title="Open download folder"
+                            class="fa fa-lg fa-folder mx-2 ng-scope" title="{{'Open download folder' | translate}}"
                             ng-mouseup="openDownloadFolder($event, task)"></a>
                     </div>
                 </div>
